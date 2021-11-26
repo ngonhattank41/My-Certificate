@@ -3,13 +3,17 @@
 These are my certificates during my studies, and it's still growing 😊
 
 # Hackerrank
-https://www.hackerrank.com/certificates/262b16941734
+https://www.hackerrank.com/certificates/262b16941734,
+
 https://www.hackerrank.com/certificates/fe1dd8c08514
 
 # Dataquest
-https://app.dataquest.io/view_cert/WEXT26OLATPMZPP5DE41/
-https://app.dataquest.io/view_cert/ZXWNXMXEA301VR3EH7ST/
-https://app.dataquest.io/view_cert/Y2CI873NB530NE3ESTUA/
+https://app.dataquest.io/view_cert/WEXT26OLATPMZPP5DE41/,
+
+https://app.dataquest.io/view_cert/ZXWNXMXEA301VR3EH7ST/,
+
+https://app.dataquest.io/view_cert/Y2CI873NB530NE3ESTUA/,
+
 https://app.dataquest.io/view_cert/JOY4V5M7ZS5FQ0GVRZZ2/
 
 # Udemy
