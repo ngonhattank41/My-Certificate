@@ -22,6 +22,10 @@ https://app.dataquest.io/view_cert/G678LZRJQDKFVVLDX3US/
 
 https://app.dataquest.io/view_cert/VO2ED4LORCCEQUJ4JH5O/
 
+https://app.dataquest.io/view_cert/LLXBHAJT2B3FX9L68JAT/
+
+
+
 ## Udemy
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-0222acb8-44d4-4d80-ba91-261d36bfdd3d.pdf
 
