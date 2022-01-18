@@ -24,6 +24,8 @@ https://app.dataquest.io/view_cert/VO2ED4LORCCEQUJ4JH5O/
 
 https://app.dataquest.io/view_cert/LLXBHAJT2B3FX9L68JAT/
 
+https://app.dataquest.io/view_cert/IDDCMWQIWUCE0PPUPNJB/
+
 
 
 ## Udemy
